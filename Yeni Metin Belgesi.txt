@@ -1,0 +1,25 @@
+A001#//#4321#//#2016.000000#//#Ammmar#//#5550101#//#alice.smith@example.com#//#USA#//#New York#//#Main St#//#101#//#Blocked
+A002#//#5678#//#2000.000000#//#Bob Jones#//#5550102#//#bob.jones@example.com#//#Canada#//#Toronto#//#Queen St#//#202#//#Active
+A003#//#1122#//#1500.000000#//#Charlie Brown#//#5550103#//#charlie.brown@example.com#//#UK#//#London#//#Baker St#//#303#//#Active
+A004#//#3344#//#2500.000000#//#Diana Prince#//#5550104#//#diana.prince@example.com#//#Australia#//#Sydney#//#George St#//#404#//#Active
+A005#//#5566#//#3000.000000#//#Edward Norton#//#5550105#//#edward.norton@example.com#//#Germany#//#Berlin#//#Friedrichstr#//#505#//#Active
+A006#//#7788#//#3500.000000#//#Fiona Apple#//#5550106#//#fiona.apple@example.com#//#France#//#Paris#//#Champs-Elysees#//#606#//#Active
+A007#//#9900#//#4000.000000#//#George Michael#//#5550107#//#george.michael@example.com#//#Spain#//#Madrid#//#Gran Via#//#707#//#Active
+A008#//#2233#//#4500.000000#//#Hannah Montana#//#5550108#//#hannah.montana@example.com#//#Italy#//#Rome#//#Via Veneto#//#808#//#Active
+A009#//#4455#//#5000.000000#//#Irene Adler#//#5550109#//#irene.adler@example.com#//#Netherlands#//#Amsterdam#//#Damstraat#//#909#//#Active
+A010#//#6677#//#5500.000000#//#John Doe#//#5550110#//#john.doe@example.com#//#Belgium#//#Brussels#//#Avenue Louise#//#10#//#Active
+A011#//#8899#//#6000.000000#//#Kara Zor-El#//#5550111#//#kara.zor-el@example.com#//#Sweden#//#Stockholm#//#Drottninggatan#//#111#//#Active
+A012#//#1010#//#6500.000000#//#Louis Lane#//#5550112#//#louis.lane@example.com#//#Norway#//#Oslo#//#Karl Johans gate#//#222#//#Active
+A013#//#2121#//#7000.000000#//#Mia Wallace#//#5550113#//#mia.wallace@example.com#//#Denmark#//#Copenhagen#//#H.C. Andersens Blvd#//#333#//#Active
+A014#//#3232#//#7500.000000#//#Nick Fury#//#5550114#//#nick.fury@example.com#//#Finland#//#Helsinki#//#Aleksanterinkatu#//#444#//#Active
+A015#//#4343#//#8000.000000#//#Olivia Pope#//#5550115#//#olivia.pope@example.com#//#Iceland#//#Reykjavik#//#Laugavegur#//#555#//#Active
+A016#//#5454#//#8500.000000#//#Peter Parker#//#5550116#//#peter.parker@example.com#//#Ireland#//#Dublin#//#O'Connell St#//#666#//#Active
+A017#//#6565#//#9000.000000#//#Quinn Fabray#//#5550117#//#quinn.fabray@example.com#//#Scotland#//#Edinburgh#//#Princes St#//#777#//#Active
+A018#//#7676#//#9500.000000#//#Ryan Gosling#//#5550118#//#ryan.gosling@example.com#//#Wales#//#Cardiff#//#St Mary St#//#888#//#Active
+A019#//#8787#//#10000.000000#//#Sarah Connor#//#5550119#//#sarah.connor@example.com#//#Austria#//#Vienna#//#Karntnerring#//#999#//#Active
+A020#//#9898#//#10500.000000#//#Tom Hanks#//#5550120#//#tom.hanks@example.com#//#Switzerland#//#Zurich#//#Bahnhofstrasse#//#10#//#Blocked
+A021#//#2020#//#11000.000000#//#Uma Thurman#//#5550121#//#uma.thurman@example.com#//#Portugal#//#Lisbon#//#Avenida da Liberdade#//#111#//#Active
+A022#//#3131#//#11500.000000#//#Vera Farmiga#//#5550122#//#vera.farmiga@example.com#//#Greece#//#Athens#//#Syntagma Square#//#222#//#Active
+A023#//#4242#//#12000.000000#//#Will Smith#//#5550123#//#will.smith@example.com#//#Turkey#//#Istanbul#//#Bosphorus Blvd#//#333#//#Active
+A024#//#5353#//#12500.000000#//#Xena Warrior#//#5550124#//#xena.warrior@example.com#//#Egypt#//#Cairo#//#Tahrir Square#//#444#//#Active
+A025#//#6464#//#13000.000000#//#Yara Shahidi#//#5550125#//#yara.shahidi@example.com#//#South Africa#//#Cape Town#//#Long St#//#555#//#Active
